@@ -64,7 +64,8 @@ public class Pregunta {
     }
 
     @Override
-    public String toString() {
+    public String toString()
+    {
         return "PreguntaLista{" +
                 "categoria='" + categoria + '\'' +
                 ", dificultad='" + dificultad + '\'' +
